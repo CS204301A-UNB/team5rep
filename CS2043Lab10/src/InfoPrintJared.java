@@ -1,7 +1,7 @@
 
 public class InfoPrintJared {
 
-	public void printJared(){
+	public static void printJared(){
 		System.out.print("Matthew Jared");
 	}
 }
