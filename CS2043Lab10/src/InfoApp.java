@@ -6,6 +6,11 @@ public class InfoApp {
 		InfoPrintJared.printJared();
 		InfoPrintAyedi infoPrintAyedi = new InfoPrintAyedi();
 		infoPrintAyedi.printAyedi();
+		InfoPrintFraser.printFraser();
+		InfoPrintFraser infoPrintFraser = new InfoPrintFraser();
+		infoPrintFraser.printFraser();
+		InfoPrintKwak infoPrintKwak = new InfoPrintKwak();
+		infoPrintKwak.printKwak();
 	}
 
 }
